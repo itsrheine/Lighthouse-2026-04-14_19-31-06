@@ -8,7 +8,7 @@ The experience is intentionally minimal. The player drives along a coastal road 
 
 Lighthouse explores the feeling of moving toward something distant and meaningful.
 
-There are no timers, no pressure, and no competition. The experience is built around a simple journey — driving forward, reaching a destination, and sitting with the moment that follows.
+There are no timers, no pressure, and no competition. The experience is built around a simple journey, driving forward, reaching a destination, and sitting with the moment that follows.
 
 The goal is not just to arrive, but to feel the act of arriving.
 
@@ -75,7 +75,7 @@ Lighthouse is intended to feel small, quiet, and reflective.
 
 Rather than pushing the player through objectives, the experience encourages slowing down, moving forward, and pausing at the destination.
 
-The lighthouse is not the end of the experience — it is where the experience becomes still.
+The lighthouse is not the end of the experience, it is where the experience becomes still.
 
 ## Status
 
